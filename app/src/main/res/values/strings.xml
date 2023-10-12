@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Stori Test App</string>
+    <string name="splash_icon">Stori App Icon</string>
+    <string name="email_error">Invalid email address</string>
+    <string name="empty_password_error">Password should not be empty</string>
+    <string name="please_complete_all_values">Please complete all values</string>
+    <string name="check_credentials_error">Please check your credentials and try again</string>
+
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="onboarding">Onboarding</string>
+    <string name="camera">Camera</string>
+    <string name="detail">Detail</string>
+    <string name="transactions">Transactions</string>
+    <string name="log_in_with_email">Log in with email</string>
+    <string name="home_app_title">Hello</string>
+
+    <string name="mail">Mail</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="send_information">Send information</string>
+    <string name="take_id_picture">Take id picture</string>
+    <string name="app_logo_content_description">App logo</string>
+</resources>
