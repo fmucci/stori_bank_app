@@ -13,3 +13,8 @@
 ## Missing feature:
 
  - I couldn't imlement the camera feature in the given time, but I've done everthing else before that
+
+## User for testing:
+
+user: mucci92@hotmail.com
+pass: francotest
